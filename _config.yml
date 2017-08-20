@@ -1,2 +1,16 @@
-name: Hank Quinlan, Horrible Cop
+name: Andrew Bergan
 markdown: kramdown
+
+# Setup
+title:            Andrew Bergan
+tagline:          'Choose adventure'
+description:      'Structural mechanics researcher at <a href="https://www.nasa.gov/langley">NASA</a>. I like to ski, climb, mountain bike, sail, hike, run, fix stuff, and code.'
+url:              https://acbergan.github.io
+baseurl:          /
+
+author:
+  name:           'Andrew Bergan'
+  email:          acbergan@gmail.com
+
+# paginate:         5
+

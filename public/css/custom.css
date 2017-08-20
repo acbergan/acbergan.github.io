@@ -1,0 +1,40 @@
+
+/*
+Sidebar
+*/
+
+.lead {
+ 	font-size: 1rem;
+ 	font-weight: 300;
+}
+
+.copyright {
+	font-size: 0.7rem;
+	color: #404040;
+	display:auto;
+	text-align:left;
+}
+
+.social-container {
+	height: auto;
+    width: auto;
+    margin-bottom:1rem;
+}
+
+.social-icons {
+	display:inline-block;
+	height: 16px;
+	margin: 0 0.2rem 1rem 0.2rem;
+}
+@media (max-width: 48em) {
+	.social-icons {
+		height: 24px;
+	}
+}
+
+@media (min-width: 48em) {
+	.sidebar-about > a > img {
+		margin: 0 0 1rem;
+		border-radius:50%;
+	}
+}
