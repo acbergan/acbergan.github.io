@@ -9,6 +9,6 @@ I'm a Research Engineer at [NASA Langley Research Center](https://www.nasa.gov/l
 My current research interests include progressive damage analysis of composite structures, analysis verification and validation, high-fidelity structural testing, x-ray computed tomography segmentation, high performance computing for finite element analysis, damage tolerance, composite stitching, and bonded joints.
 
 ### When I'm not working
-I enjoy outdoor adventure sports including sailing, skiing, mountain biking, trail running, and rock climbing. I spend too much tinkering with my house and my cars. I live with my wife in Newport News, VA.
+I enjoy outdoor adventure sports including sailing, skiing, mountain biking, trail running, and rock climbing. I spend too much time tinkering with my house and my cars. I live with my wife in Newport News, VA.
 
 Thanks for reading!
