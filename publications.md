@@ -6,12 +6,13 @@ title: Publications
 ### In Preparation
 <ol>
 	<li>Herráez, M., Bergan, A. C., Lopes, C. S., and González, C. “Fiber Kinking: From micro to mesomechanics” NASA TM, Hampton, VA, 2017.</li><br>
-	<li>Bergan, A. C. and Garcea, S. C. “In Situ Observations of Longitudinal Compression Damage in Carbon-Epoxy Cross Ply Laminates Using Synchrotron Radiation Computed Tomography,” accepted abstract for the 32nd American Society for Composites Technical Conference, West Lafayette, IN, 2017.</li><br>
-	<li>Herráez, M., Bergan, A. C., Lopes, C. S., and González, C. "Multiscale Fiber Kinking:  Computational Micromechanics and a Mesoscale CDM Model," accpeted abstract for the ECCOMAS 2017 conference, Eindhoven, Netherlands, 2017.</li><br>
+	<li>Bergan, A. C., Herráez, M., González, C., and Lopes, C. S., “Development of a Mesoscale Finite Element Constitutive Model for Fiber Kinking,” to be presented at the 59th AIAA/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference, Kissimmee, FL, 2018.</li><br>
 </ol>
 
 ### Published
 <ol>
+	<li>Bergan, A. C. and Garcea, S. C. “In Situ Observations of Longitudinal Compression Damage in Carbon-Epoxy Cross Ply Laminates Using Synchrotron Radiation Computed Tomography,” presented at the 32nd American Society for Composites Technical Conference, West Lafayette, IN, 2017.</li><br>
+	<li>Herráez, M., Bergan, A. C., Lopes, C. S., and González, C. "Multiscale Fiber Kinking:  Computational Micromechanics and a Mesoscale CDM Model," presented at the ECCOMAS 2017 conference, Eindhoven, Netherlands, 2017.</li><br>
 	<li>Bergan, A. C. "Developing Predictive Progressive Damage Analysis Tools for Composite Structures" invited talk, IFAR ECN Structures and Materials Group, 2017.</li><br>
 	<li>Bergan, A. C., “A Numerical Study on the Edgewise Compression Strength of Sandwich Structures with Facesheet-Core Disbonds,” presented at the 58th AIAA/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference, Grapevine, TX, 2017.</li><br>
 	<li>Bergan, A. C., Dávila, C. G., Leone, F. A., Awerbuch, J., and Tan, T.-M. “A Mode I Cohesive Law Characterization Procedure For Through-Thickness Crack Propagation In Composite Laminates,” Composites Part B, vol. 94, 2016, pp. 338-349. </li><br>

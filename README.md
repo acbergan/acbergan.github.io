@@ -6,11 +6,8 @@ TODO: blog posts
 - 3000GT stainless steel brake lines
 - Composites calculator
 - FEM density calculator
-- Fence
-- Termite repairs
 - Travel photo pages
 - Climbing route pyramid visualization
-- Home climbing wall
 
 TODO: someday
 - links to publications
