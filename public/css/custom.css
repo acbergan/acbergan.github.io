@@ -38,3 +38,24 @@ Sidebar
 		border-radius:50%;
 	}
 }
+
+
+/*
+Books
+*/
+.book {
+	min-height: 160px;
+}
+.book-cover {
+	width: 120px;
+	padding-top: 5px;
+	float: left;
+}
+div.book-cover > img {
+	width: 100px;
+}
+.book-content {
+}
+.book-title {
+	font-size: 18px;
+}
