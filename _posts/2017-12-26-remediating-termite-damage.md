@@ -5,7 +5,7 @@ title: "Remediating Termite Damage"
 ---
 
 <!--excerpt.start-->
-Termites can be a big problem for wood framed homes in the southeast. I bought my first house knowing there was some termite damage. There was evidence of termite damage throughout the house, most noticeably in the wood floors. The previous owner did relatively extensive repairs to fix the termite damage including replacing about half of the first floor joists. While most of the evidence of termite damage was on the first floor, there was a dormer on the second floor that had water damage, and so we suspected that there could be some termite damage around the dormer since termites are attracted to moisture. This post describes the work I did to remediate the termite damage I found around this dormer.<!--excerpt.end-->
+Termites can be a big problem for wood framed homes in the southeast. I bought my first house knowing there was some termite damage. There was evidence of termite damage throughout the house, most noticeably in the wood floors. The previous owner did relatively extensive repairs to fix the termite damage including replacing about half of the first floor joists. While most of the evidence of termite damage was on the first floor, there was a dormer on the second floor that had water damage, and so we suspected that there could be some termite damage around the dormer since termites are attracted to moisture. This post describes the work I did to remediate the termite damage in this dormer.<!--excerpt.end-->
 
 ### About termites
 Subterranean termites are a common pest. They live in colonies in the ground and seek out wood for food. A colony of termites consumes about a pound of wood per day. Since a termite infestation can go on unnoticed for years, the amount of wood consumed really adds up. Many exterminators provide termite treatments that will keep termite colonies at bay. Once significant termite damage occurs, the damage can be remediated by reinforcing or replacing the damaged wood framing.
@@ -67,7 +67,8 @@ The final product looks awesome from the outside!
 {% include image.html name="finished.jpg" alt="Rebuilding the second floor wall" %}
 <br>
 Like the first floor, the inside looks good too.
-<b>Add inside photo here</b>
+{% include image.html name="second-floor-interior.jpg" alt="Second floor from the inside" %}
+<br>
 
 ### Final Thoughts
 This project was a big project for me and the first time I did any real framing work. I learned a lot in the process. The bottom line is that fixing termite damage is involved and time-consuming, but not impossible for an intrepid DIYer. I think my effort was worthwhile, since now our whole house has been remediated of termite damage. However, it should be noted that structurally, homes (especially old homes) are overbuilt. Small amounts of termite damage are unlikely to cause any real harm or increased likelihood of collapse. Severe termite damage like I found should be remediated, but mild termite damage is usually fine left as is.
