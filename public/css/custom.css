@@ -39,6 +39,24 @@ Sidebar
 	}
 }
 
+/*
+Mail chimp form
+*/
+#mc_embed_signup {
+	background:#fff; 
+	clear:left; 
+	font:14px Helvetica,Arial,sans-serif;
+	color: black;
+}
+
+#mc_embed_signup form {
+	padding-left: 0px;
+}
+
+#mc_embed_signup input.email {
+	width: 100%;
+}
+
 
 /*
 Books

@@ -3,7 +3,6 @@ Personal website
 
 
 TODO: blog posts
-- Email subscription: https://blog.webjeda.com/jekyll-subscribe-form/#update-1---mailchimp-subscribe-form-on-jekyll
 - 3000GT stainless steel brake lines
 - Composites calculator
 - FEM density calculator
