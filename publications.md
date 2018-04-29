@@ -5,7 +5,7 @@ title: Publications
 
 ### In Preparation
 <ol>
-	<li>Herráez, M., Bergan, A. C., Lopes, C. S., and González, C. “Fiber Kinking: From micro to mesomechanics” NASA TM, Hampton, VA, 2017.</li><br>
+	<li>Herráez, M., Bergan, A. C., Lopes, C. S., and González, C. “Fiber Kinking: From micro to mesomechanics” NASA TM, Hampton, VA, 2018.</li><br>
 </ol>
 
 ### Published
