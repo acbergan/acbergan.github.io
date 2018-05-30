@@ -6,6 +6,9 @@ title: Publications
 ### In Preparation
 <ol>
 	<li>Herráez, M., Bergan, A. C., Lopes, C. S., and González, C. “Fiber Kinking: From micro to mesomechanics” NASA TM, Hampton, VA, 2018.</li><br>
+	<li>Bergan, A. C. and Jackson, W. C. “Validation of a Mesoscale Fiber Kinking Model through Test and Analysis of Double Edge Notch Compression Specimens” to be presented at the 33rd American Society for Composites Technical Conference, Seattle, WA, 2018.</li><br>
+	<li>Hyder, I., Leone, F. A., Justusson, B. P., Schaefer, J. D., Bergan, A. C., and Wanthal, S. “Implementation of a Matrix Crack Spacing Parameter in a Continuum Damage Mechanics Finite Element Model” to be presented at the 33rd American Society for Composites Technical Conference, Seattle, WA, 2018.</li><br>
+	<li>Bergan, A. C. “A Three-Dimensional Mesoscale Model for In-Plane and Out-of-Plane Fiber Kinking” to be presented at the 60th AIAA/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference (SciTech), San Diego, CA, 2019.</li><br>
 </ol>
 
 ### Published
