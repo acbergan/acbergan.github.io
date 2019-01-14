@@ -5,14 +5,16 @@ title: Publications
 
 ### In Preparation
 <ol>
-	<li>Herráez, M., Bergan, A. C., Lopes, C. S., and González, C. “Fiber Kinking: From micro to mesomechanics” NASA TM, Hampton, VA, 2018.</li><br>
-	<li>Bergan, A. C. and Jackson, W. C. “Validation of a Mesoscale Fiber Kinking Model through Test and Analysis of Double Edge Notch Compression Specimens” to be presented at the 33rd American Society for Composites Technical Conference, Seattle, WA, 2018.</li><br>
-	<li>Hyder, I., Leone, F. A., Justusson, B. P., Schaefer, J. D., Bergan, A. C., and Wanthal, S. “Implementation of a Matrix Crack Spacing Parameter in a Continuum Damage Mechanics Finite Element Model” to be presented at the 33rd American Society for Composites Technical Conference, Seattle, WA, 2018.</li><br>
-	<li>Bergan, A. C. “A Three-Dimensional Mesoscale Model for In-Plane and Out-of-Plane Fiber Kinking” to be presented at the 60th AIAA/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference (SciTech), San Diego, CA, 2019.</li><br>
+	<li>Coming soon.</li><br>
 </ol>
 
 ### Published
 <ol>
+	<li>Herráez, M., Bergan, A. C., Lopes, C. S., and González, C. “Modeling Fiber Kinking at the Microscale and Mesoscale” NASA/TP–2018–220105, Hampton, VA, 2018. <a href="https://ntrs.nasa.gov/search.jsp?R=20180007919">link.</a></li><br>
+	<li>Bergan, A. C. “A Three-Dimensional Mesoscale Model for In-Plane and Out-of-Plane Fiber Kinking” presented at the 60th AIAA/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference (SciTech), San Diego, CA, 2019.</li><br>
+	<li>Stapleton, S. E., Stier, B., Jones, S., Bergan, A. C., Sleight, D. W., Bednarcyk, B. A., Zahn, A., Farrokh, B., and Segal, K. N. “Comparison of Design Tools for Stress Analysis of Adhesively Bonded Joints” presented at the 60th AIAA/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference (SciTech), San Diego, CA, 2019.</li><br>
+	<li>Bergan, A. C. and Jackson, W. C. “Validation of a Mesoscale Fiber Kinking Model through Test and Analysis of Double Edge Notch Compression Specimens” presented at the 33rd American Society for Composites Technical Conference, Seattle, WA, 2018.</li><br>
+	<li>Hyder, I., Leone, F. A., Justusson, B. P., Schaefer, J. D., Bergan, A. C., and Wanthal, S. “Implementation of a Matrix Crack Spacing Parameter in a Continuum Damage Mechanics Finite Element Model” presented at the 33rd American Society for Composites Technical Conference, Seattle, WA, 2018.</li><br>
 	<li>Bergan, A. C., Herráez, M., González, C., and Lopes, C. S., “Development of a Mesoscale Finite Element Constitutive Model for Fiber Kinking,” presented at the 59th AIAA/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference, Kissimmee, FL, 2018.</li><br>
 	<li>Bergan, A. C. and Garcea, S. C. “In Situ Observations of Longitudinal Compression Damage in Carbon-Epoxy Cross Ply Laminates Using Synchrotron Radiation Computed Tomography,” presented at the 32nd American Society for Composites Technical Conference, West Lafayette, IN, 2017.</li><br>
 	<li>Herráez, M., Bergan, A. C., Lopes, C. S., and González, C. "Multiscale Fiber Kinking:  Computational Micromechanics and a Mesoscale CDM Model," presented at the ECCOMAS 2017 conference, Eindhoven, Netherlands, 2017.</li><br>

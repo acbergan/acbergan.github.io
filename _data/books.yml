@@ -1,3 +1,35 @@
+- title: "The Friend: A Novel"
+  author: Sigrid Nunez
+  finished: December, 2018
+  amazon: 'https://www.amazon.com/Friend-Novel-Sigrid-Nunez/dp/0735219443'
+  cover: 'https://images-na.ssl-images-amazon.com/images/I/41ovTuOJajL.jpg'
+  notes: ""
+  pages: 432
+
+- title: "A Thousand Splendid Suns"
+  author: Khaled Hosseini
+  finished: September, 2018
+  amazon: 'https://www.amazon.com/Thousand-Splendid-Suns-Khaled-Hosseini/dp/159448385X'
+  cover: 'https://images-na.ssl-images-amazon.com/images/I/518tK2CNHVL.jpg'
+  notes: ""
+  pages: 432
+
+- title: "The Selfish Gene (Popular Science)"
+  author: Richard Dawkins
+  finished: August, 2018
+  amazon: 'https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925'
+  cover: 'https://images-na.ssl-images-amazon.com/images/I/51V0mRLaiYL.jpg'
+  notes: ""
+  pages: 368
+
+- title: "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change"
+  author: Stephen R. Covey
+  finished: July, 2018
+  amazon: 'https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519'
+  cover: 'https://images-na.ssl-images-amazon.com/images/I/51hV5vGr4AL.jpg'
+  notes: ""
+  pages: 384
+
 - title: "The Underground Railroad: A Novel"
   author: Colson Whitehead
   finished: May 5, 2018
@@ -29,6 +61,14 @@
   cover: 'https://images-na.ssl-images-amazon.com/images/I/51R17RkflyL.jpg'
   notes: "A fun tour of famous restaurants that left a mark on American history and culture. I found the historical perspective fascinating, though a bit dry and encyclopedic at times. As a millennial, most of the restaurants were new to me. As a food lover, the influence of the restaurateurs, chefs, and menus was fun to learn about. Now, when I go into a restaurant, I can see how the choices of design in atmosphere, service, and menu were influenced by the great eating establishments of the twentieth century. If you are a foodie and you enjoy history, you will love this book."
   pages: 560
+
+- title: "Nonviolent Communication: A Language of Life"
+  author: Marshall B. Rosenberg
+  finished: March, 2018
+  amazon: 'https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X'
+  cover: 'https://images-na.ssl-images-amazon.com/images/I/51MhjeI1bcL.jpg'
+  notes: ""
+  pages: 264
 
 - title: "Evicted"
   author: Matthew Desmond
