@@ -5,13 +5,20 @@ title: Publications
 
 ### In Preparation
 <ol>
-	<li>Bergan, A. C. “An Automated Meshing Framework for Progressive Damage Analysis of Fabrics Using CompDam” to be presented at the 35th American Society for Composites Technical Conference, Jersey City, NJ, (virtual) 2020.</li><br>
-    <li>Larson, R., Bergan, A. C., Leone Jr., F. A., and Kravchenko, O. G.  “Understanding Variability in Mechanical Behavior of Adhesively Bonded Sandwich Joints due to Stochastic Material Damage” to be presented at the 35th American Society for Composites Technical Conference, Jersey City, NJ, (virtual) 2020.</li><br>
 </ol>
 
 ### Published
 <ol>
+	<!-- 2021 -->
+	<li>Bergan, A. C. “New Developments in the CompDam Fiber Kinking Model for the Interaction of Kinking and Splitting Cracks with Application to Open Hole Compression Specimens” SciTech 2021, Nashville, TN, (virtual) 2021.</li><br>
+	<li>Long, Y., Rique, O., Fernandez, J. M., Bergan, A. C., and Yu, W. “Multiscale Simulation of Deployable Composite Structures” SciTech 2021, Nashville, TN, (virtual) 2021.</li><br>
+	<li>Rique, O., Tian, S., Fernandez, J. M., Bergan, A. C., and Yu, W. “Thermoviscoelastic Modelling of Thin-Ply High Strain Composites by Means of Multiscale Beam Models” SciTech 2021, Nashville, TN, (virtual) 2021.</li><br>
+	<li>Zhang, L., Fernandez, J. M., Bergan, A. C., and Yu, W. “Variational Asymptotic Homogenization of Finitely Deformed Viscoelastic-Viscoplastic Composites” SciTech 2021, Nashville, TN, (virtual) 2021.</li><br>
+	<li>Rivera, A. X., Venkataraman, S., Kim, H., Pineda, E., and Bergan, A. C. “Characterization and Modeling of Cell Wall Imperfections in Aluminum Honeycomb Cores Using X-Ray CT Imaging” SciTech 2021, Nashville, TN, (virtual) 2021.</li><br>
 	<!-- 2020 -->
+	<li>Bergan, A. C., Murphy, S. J., and Miles, L. F. “Analysis of Open Hole Compression Specimens Using the CompDam Continuum Damage Mechanics Model” NASA/TM-2020-5009618, Hampton, VA, 2020.</li><br>
+	<li>Bergan, A. C. “An Automated Meshing Framework for Progressive Damage Analysis of Fabrics Using CompDam” presented at the 35th American Society for Composites Technical Conference, Jersey City, NJ, (virtual) 2020.</li><br>
+    <li>Larson, R., Bergan, A. C., Leone Jr., F. A., and Kravchenko, O. G.  “Understanding Variability in Mechanical Behavior of Adhesively Bonded Sandwich Joints due to Stochastic Material Damage” presented at the 35th American Society for Composites Technical Conference, Jersey City, NJ, (virtual) 2020.</li><br>
     <li>Bergan, A. C., Herráez, M., Lopes, C. S., and González, C. “A constitutive model for fiber kinking: Formulation, finite element implementation, and verification,” Composites Part A: Applied Science and Manufacturing, vol. 129, 2020. <a href="https://www.sciencedirect.com/science/article/pii/S1359835X19304312">link.</a></li><br>
     <li>Herráez, M., Bergan, A. C., Lopes, C. S., and González, C. “Computational micromechanics model for the analysis of fiber kinking in unidirectional fiber-reinforced polymers,” Mechanics of Materials, vol. 142, 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167663619306386">link.</a></li><br>
     <!-- 2019 -->
